@@ -82,25 +82,28 @@ p {
 .logo-container {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 16px;
 }
 
-.logo-placeholder {
+.logo-primary {
     width: 50px;
     height: 50px;
-    background-image: url('path/to/your/logo.png');
+    background-image: url('images/logo-1.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    border-radius: 50%;
+    border-radius: 8px;
 }
 
 
-.nav-logo h2 {
-    color: #1e40af;
-    font-size: 1.2rem;
-    font-weight: 700;
-    margin: 0;
+.logo-secondary {
+    width: 50px;
+    height: 50px;
+    background-image: url('images/logo-2.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 8px;
 }
 
 .nav-menu {
