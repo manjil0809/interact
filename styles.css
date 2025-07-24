@@ -783,6 +783,134 @@ p {
     margin: 0;
 }
 
+/* Individual Board Member Images */
+.president-image .placeholder-image {
+    background-image: url('images/president.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.vice-president-image .placeholder-image {
+    background-image: url('images/vice-president.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.secretary-image .placeholder-image {
+    background-image: url('images/secretary.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.treasurer-image .placeholder-image {
+    background-image: url('images/treasurer.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.project-director-image .placeholder-image {
+    background-image: url('images/project-director.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.media-head-image .placeholder-image {
+    background-image: url('images/media-head.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Individual Member Images */
+.member-1-image .placeholder-image {
+    background-image: url('images/member-1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.member-2-image .placeholder-image {
+    background-image: url('images/member-2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.member-3-image .placeholder-image {
+    background-image: url('images/member-3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.member-4-image .placeholder-image {
+    background-image: url('images/member-4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.member-5-image .placeholder-image {
+    background-image: url('images/member-5.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.member-6-image .placeholder-image {
+    background-image: url('images/member-6.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.member-7-image .placeholder-image {
+    background-image: url('images/member-7.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.member-8-image .placeholder-image {
+    background-image: url('images/member-8.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.member-9-image .placeholder-image {
+    background-image: url('images/member-9.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.member-10-image .placeholder-image {
+    background-image: url('images/member-10.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.member-11-image .placeholder-image {
+    background-image: url('images/member-11.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.member-12-image .placeholder-image {
+    background-image: url('images/member-12.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .hero-banner {
